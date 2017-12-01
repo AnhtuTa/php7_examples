@@ -1,0 +1,4 @@
+3 types of query in phpmyadmin
+MySQLi Object-oriented
+MySQLi Procedural
+PDO

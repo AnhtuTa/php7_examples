@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - hoc bong",
+    "totalResults": "541",
+    "searchTerms": "hoc bong",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006699419362551519039:wprwgwnhaa8"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoc bong",
+    "totalResults": "541",
+    "searchTerms": "hoc bong",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006699419362551519039:wprwgwnhaa8"
+   }
+  ]
+ },
+ "context": {
+  "title": "Tìm kiếm trên SOICT_HUST"
+ },
+ "searchInformation": {
+  "searchTime": 0.532928,
+  "formattedSearchTime": "0,53",
+  "totalResults": "541",
+  "formattedTotalResults": "541"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Học bổng – Viện Công nghệ thông tin và Truyền thông – Đại học ...",
+   "htmlTitle": "\u003cb\u003eHọc bổng\u003c/b\u003e – Viện Công nghệ thông tin và Truyền thông – Đại học ...",
+   "link": "https://soict.hust.edu.vn/index.php/category/thong-bao/tb-hoc-bong/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "HỌC BỔNG TÀI NĂNG SAMSUNG (SAMSUNG TALENT PROGRAM – STP) nằm \ntrong khuôn khổ chương trình hợp tác giữa SAMSUNG và các trường Đại học ...",
+   "htmlSnippet": "\u003cb\u003eHỌC BỔNG\u003c/b\u003e TÀI NĂNG SAMSUNG (SAMSUNG TALENT PROGRAM – STP) nằm \u003cbr\u003e\ntrong khuôn khổ chương trình hợp tác giữa SAMSUNG và các trường Đại học&nbsp;...",
+   "cacheId": "KikBjba_mjMJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/category/thong.../tb-hoc-bong/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/category/thong.../tb-\u003cb\u003ehoc\u003c/b\u003e-\u003cb\u003ebong\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "name": "Học bổng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Học bổng Tài năng Samsung STP 2017 – Đợt 2 – Viện Công nghệ ...",
+   "htmlTitle": "\u003cb\u003eHọc bổng\u003c/b\u003e Tài năng Samsung STP 2017 – Đợt 2 – Viện Công nghệ ...",
+   "link": "https://soict.hust.edu.vn/index.php/2017/05/12/stp-20172/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "12 Tháng Năm 2017 ... HỌC BỔNG TÀI NĂNG SAMSUNG STP 2017 Là chương trình hợp tác giữa \nSAMSUNG và trường Đại học Bách khoa Hà Nội (HUST) nhằm ...",
+   "htmlSnippet": "12 Tháng Năm 2017 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHỌC BỔNG\u003c/b\u003e TÀI NĂNG SAMSUNG STP 2017 Là chương trình hợp tác giữa \u003cbr\u003e\nSAMSUNG và trường Đại học Bách khoa Hà Nội (HUST) nhằm&nbsp;...",
+   "cacheId": "w4tXIF2WRh0J",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/2017/05/12/stp-20172/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/2017/05/12/stp-20172/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "item": "Học bổng",
+      "name": "Học bổng"
+     },
+     {
+      "name": "Học bổng Tài năng Samsung STP 2017 – Đợt 2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chương trình học bổng Microsoft dành cho nữ sinh ngành Công ...",
+   "htmlTitle": "Chương trình \u003cb\u003ehọc bổng\u003c/b\u003e Microsoft dành cho nữ sinh ngành Công ...",
+   "link": "https://soict.hust.edu.vn/index.php/2017/08/04/microsoft-scholarship-2017/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "4 Tháng Tám 2017 ... Căn cứ tiêu chí xét chọn của học bổng, Nhà trường thông báo Chương trình học \nbổng Microsoft với các nội dung sau: 1. Đối tượng xét chọn:.",
+   "htmlSnippet": "4 Tháng Tám 2017 \u003cb\u003e...\u003c/b\u003e Căn cứ tiêu chí xét chọn của \u003cb\u003ehọc bổng\u003c/b\u003e, Nhà trường thông báo Chương trình \u003cb\u003ehọc\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ebổng\u003c/b\u003e Microsoft với các nội dung sau: 1. Đối tượng xét chọn:.",
+   "cacheId": "I4jQ_LzLKAEJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/.../microsoft-scholarship-2017/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/.../microsoft-scholarship-2017/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "item": "Học bổng",
+      "name": "Học bổng"
+     },
+     {
+      "name": "Chương trình học bổng Microsoft dành cho nữ sinh ngành Công nghệ thông tin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chương trình học bổng \"Tài năng Samsung\" năm 2017 - Viện Công ...",
+   "htmlTitle": "Chương trình \u003cb\u003ehọc bổng\u003c/b\u003e &quot;Tài năng Samsung&quot; năm 2017 - Viện Công ...",
+   "link": "https://soict.hust.edu.vn/old2/index.php/thong-bao/hoc-bong/1119-samsung-stp-2017",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "16 Tháng Ba 2017 ... HỌC BỔNG TÀI NĂNG SAMSUNG STP 2017là chương trình hợp tác giữa \nSAMSUNG và trường Đại học Bách khoa Hà Nội (HUST) nhằm góp ...",
+   "htmlSnippet": "16 Tháng Ba 2017 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHỌC BỔNG\u003c/b\u003e TÀI NĂNG SAMSUNG STP 2017là chương trình hợp tác giữa \u003cbr\u003e\nSAMSUNG và trường Đại học Bách khoa Hà Nội (HUST) nhằm góp&nbsp;...",
+   "cacheId": "3Ydph8Vq7y4J",
+   "formattedUrl": "https://soict.hust.edu.vn/old2/.../hoc-bong/1119-samsung-stp-2017",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/old2/.../\u003cb\u003ehoc\u003c/b\u003e-\u003cb\u003ebong\u003c/b\u003e/1119-samsung-stp-2017",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Bui Trong Tung"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buổi giới thiệu thông tin về Chương trình Học bổng Thạc sĩ và Tiến ...",
+   "htmlTitle": "Buổi giới thiệu thông tin về Chương trình \u003cb\u003eHọc bổng\u003c/b\u003e Thạc sĩ và Tiến ...",
+   "link": "https://soict.hust.edu.vn/index.php/2017/10/04/buoi-gioi-thieu-thong-tin-ve-chuong-trinh-hoc-bong-thac-si-va-tien-si-du-an-aunseed-net-nam-2017/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "4 Tháng Mười 2017 ... Kể từ khi hoạt động đến nay, Dự án đã có những hỗ trợ tích cực trong việc nâng \ncao năng lực cán bộ thông qua các chương trình học bổng ...",
+   "htmlSnippet": "4 Tháng Mười 2017 \u003cb\u003e...\u003c/b\u003e Kể từ khi hoạt động đến nay, Dự án đã có những hỗ trợ tích cực trong việc nâng \u003cbr\u003e\ncao năng lực cán bộ thông qua các chương trình \u003cb\u003ehọc bổng\u003c/b\u003e&nbsp;...",
+   "cacheId": "L1vrwdAWs7YJ",
+   "formattedUrl": "https://soict.hust.edu.vn/.../buoi-gioi-thieu-thong-tin-ve-chuong-trinh-hoc- bong-thac-si-va-tien-si-du-an-aunseed-net-nam-2017/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/.../buoi-gioi-thieu-thong-tin-ve-chuong-trinh-\u003cb\u003ehoc\u003c/b\u003e- \u003cb\u003ebong\u003c/b\u003e-thac-si-va-tien-si-du-an-aunseed-net-nam-2017/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "item": "Học bổng",
+      "name": "Học bổng"
+     },
+     {
+      "name": "Buổi giới thiệu thông tin về Chương trình Học bổng Thạc sĩ và Tiến sĩ Dự án AUN/SEED-Net năm 2017"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Học bổng – Page 2 – Viện Công nghệ thông tin và Truyền thông ...",
+   "htmlTitle": "\u003cb\u003eHọc bổng\u003c/b\u003e – Page 2 – Viện Công nghệ thông tin và Truyền thông ...",
+   "link": "https://soict.hust.edu.vn/index.php/category/thong-bao/tb-hoc-bong/page/2/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "Đăng bởi SoICT News; Chuyên mục Học bổng. Trong khuôn khổ hợp tác giữa \nTrường Đại học Bách khoa Hà Nội và Đại học Aizu (Japan), Đại học Ai zu hàng ...",
+   "htmlSnippet": "Đăng bởi SoICT News; Chuyên mục \u003cb\u003eHọc bổng\u003c/b\u003e. Trong khuôn khổ hợp tác giữa \u003cbr\u003e\nTrường Đại học Bách khoa Hà Nội và Đại học Aizu (Japan), Đại học Ai zu hàng&nbsp;...",
+   "cacheId": "ghuBUApGgFMJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/category/thong...hoc-bong/.../2/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/category/thong...\u003cb\u003ehoc\u003c/b\u003e-\u003cb\u003ebong\u003c/b\u003e/.../2/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "name": "Học bổng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chương trình “Học bổng Tài năng Samsung – STP 2017” – Viện ...",
+   "htmlTitle": "Chương trình “\u003cb\u003eHọc bổng\u003c/b\u003e Tài năng Samsung – STP 2017” – Viện ...",
+   "link": "https://soict.hust.edu.vn/index.php/2017/10/14/stp-2017/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "14 Tháng Mười 2017 ... HỌC BỔNG TÀI NĂNG SAMSUNG (SAMSUNG TALENT PROGRAM – STP) nằm \ntrong khuôn khổ chương trình hợp tác giữa SAMSUNG và các ...",
+   "htmlSnippet": "14 Tháng Mười 2017 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHỌC BỔNG\u003c/b\u003e TÀI NĂNG SAMSUNG (SAMSUNG TALENT PROGRAM – STP) nằm \u003cbr\u003e\ntrong khuôn khổ chương trình hợp tác giữa SAMSUNG và các&nbsp;...",
+   "cacheId": "CJSwn6APQmAJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/2017/10/14/stp-2017/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/2017/10/14/stp-2017/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "item": "Học bổng",
+      "name": "Học bổng"
+     },
+     {
+      "name": "Chương trình “Học bổng Tài năng Samsung – STP 2017”"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Học bổng - Viện Công Nghệ Thông Tin và Truyền Thông - Đại học ...",
+   "htmlTitle": "\u003cb\u003eHọc bổng\u003c/b\u003e - Viện Công Nghệ Thông Tin và Truyền Thông - Đại học ...",
+   "link": "https://soict.hust.edu.vn/old2/index.php/thong-bao/hoc-bong",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "Chương trình học bổng sau đại học tại Northwestern Polytechnical University ... \nHọc bổng toàn phần khóa học PHP tại Công ty Rikkeisoft, 16 Tháng 2 2017.",
+   "htmlSnippet": "Chương trình \u003cb\u003ehọc bổng\u003c/b\u003e sau đại học tại Northwestern Polytechnical University ... \u003cbr\u003e\n\u003cb\u003eHọc bổng\u003c/b\u003e toàn phần khóa học PHP tại Công ty Rikkeisoft, 16 Tháng 2 2017.",
+   "cacheId": "HOq4wjg-zikJ",
+   "formattedUrl": "https://soict.hust.edu.vn/old2/index.php/thong-bao/hoc-bong",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/old2/index.php/thong-bao/\u003cb\u003ehoc\u003c/b\u003e-\u003cb\u003ebong\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Học bổng – Viện Công nghệ thông tin và Truyền thông – Đại học ...",
+   "htmlTitle": "\u003cb\u003eHọc bổng\u003c/b\u003e – Viện Công nghệ thông tin và Truyền thông – Đại học ...",
+   "link": "https://soict.hust.edu.vn/index.php/hoc-bong/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "Vietnamese. vi Vietnamese; en English. Website phiên bản cũ · Viện Công nghệ \nthông tin và Truyền thông - Đại học BKHN. Search for: Giới thiệu ...",
+   "htmlSnippet": "Vietnamese. vi Vietnamese; en English. Website phiên bản cũ &middot; Viện Công nghệ \u003cbr\u003e\nthông tin và Truyền thông - Đại \u003cb\u003ehọc\u003c/b\u003e BKHN. Search for: Giới thiệu&nbsp;...",
+   "cacheId": "N_aBnzwqmPEJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/hoc-bong/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/\u003cb\u003ehoc\u003c/b\u003e-\u003cb\u003ebong\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "name": "Học bổng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ra mắt Trung tâm hỗ trợ học bổng sinh viên và trao đổi sinh viên quốc",
+   "htmlTitle": "Ra mắt Trung tâm hỗ trợ \u003cb\u003ehọc bổng\u003c/b\u003e sinh viên và trao đổi sinh viên quốc",
+   "link": "https://soict.hust.edu.vn/index.php/2017/06/12/gt-hb-nhat-ban-2017/",
+   "displayLink": "soict.hust.edu.vn",
+   "snippet": "12 Tháng Sáu 2017 ... Trung tâm có nhiệm vụ tìm kiếm các cơ hội học bổng, phối hợp tổ chức các buổi \nsemina hỗ trợ sinh viên làm hồ sơ đăng ký nhận học bổng, hỗ ...",
+   "htmlSnippet": "12 Tháng Sáu 2017 \u003cb\u003e...\u003c/b\u003e Trung tâm có nhiệm vụ tìm kiếm các cơ hội \u003cb\u003ehọc bổng\u003c/b\u003e, phối hợp tổ chức các buổi \u003cbr\u003e\nsemina hỗ trợ sinh viên làm hồ sơ đăng ký nhận \u003cb\u003ehọc bổng\u003c/b\u003e, hỗ&nbsp;...",
+   "cacheId": "4v6Tx4G-5ZkJ",
+   "formattedUrl": "https://soict.hust.edu.vn/index.php/2017/06/.../gt-hb-nhat-ban-2017/",
+   "htmlFormattedUrl": "https://soict.hust.edu.vn/index.php/2017/06/.../gt-hb-nhat-ban-2017/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://soict.hust.edu.vn/wp-content/uploads/2017/03/logo_soict2.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Trang chủ",
+      "name": "Trang chủ"
+     },
+     {
+      "item": "Học bổng",
+      "name": "Học bổng"
+     },
+     {
+      "name": "Ra mắt Trung tâm hỗ trợ học bổng sinh viên và trao đổi sinh viên quốc tế, seminar Giới thiệu học bổng du học Nhật Bản"
+     }
+    ]
+   }
+  }
+ ]
+}

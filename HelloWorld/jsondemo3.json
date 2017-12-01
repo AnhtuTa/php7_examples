@@ -1,0 +1,753 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - taisao",
+    "totalResults": "4480000",
+    "searchTerms": "taisao",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006699419362551519039:bpvraz38qne"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - taisao",
+    "totalResults": "4480000",
+    "searchTerms": "taisao",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "006699419362551519039:bpvraz38qne"
+   }
+  ]
+ },
+ "context": {
+  "title": "Demo CSE"
+ },
+ "searchInformation": {
+  "searchTime": 0.261917,
+  "formattedSearchTime": "0,26",
+  "totalResults": "4480000",
+  "formattedTotalResults": "4.480.000"
+ },
+ "spelling": {
+  "correctedQuery": "tai sao",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003etai sao\u003c/i\u003e\u003c/b\u003e"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ung Hoang Phuc - Tai Sao - YouTube",
+   "htmlTitle": "Ung Hoang Phuc - \u003cb\u003eTai Sao\u003c/b\u003e - YouTube",
+   "link": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+   "displayLink": "www.youtube.com",
+   "snippet": "26 Tháng Năm 2007 ... Dau biet tinh minh nay da het that roi, nguoi yeu dau oi dung quay lung hoi em...",
+   "htmlSnippet": "26 Tháng Năm 2007 \u003cb\u003e...\u003c/b\u003e Dau biet tinh minh nay da het that roi, nguoi yeu dau oi dung quay lung hoi em...",
+   "cacheId": "rsVHT1f-vZkJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "248",
+      "height": "203",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvcivT2LIyUZre-FyWNfejZ_zK_sHN_rTGXXr9VsYTKicBrD3_yvHcswYG"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/zYjFIIKg9OY/hqdefault.jpg",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/tonynguyen25"
+     },
+     {
+      "url": "https://plus.google.com/103825572544838824221"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Ung Hoang Phuc - Tai Sao",
+      "theme-color": "#ff0000",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+      "og:title": "Ung Hoang Phuc - Tai Sao",
+      "og:image": "https://i.ytimg.com/vi/zYjFIIKg9OY/hqdefault.jpg",
+      "og:description": "Dau biet tinh minh nay da het that roi, nguoi yeu dau oi dung quay lung hoi em...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=zYjFIIKg9OY&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=zYjFIIKg9OY&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=zYjFIIKg9OY&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/zYjFIIKg9OY",
+      "og:video:secure_url": "https://www.youtube.com/embed/zYjFIIKg9OY",
+      "og:video:type": "text/html",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:video:tag": "Ung",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+      "twitter:title": "Ung Hoang Phuc - Tai Sao",
+      "twitter:description": "Dau biet tinh minh nay da het that roi, nguoi yeu dau oi dung quay lung hoi em...",
+      "twitter:image": "https://i.ytimg.com/vi/zYjFIIKg9OY/hqdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=zYjFIIKg9OY&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=zYjFIIKg9OY&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+      "twitter:player": "https://www.youtube.com/embed/zYjFIIKg9OY",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=zYjFIIKg9OY",
+      "name": "Ung Hoang Phuc - Tai Sao",
+      "description": "Dau biet tinh minh nay da het that roi, nguoi yeu dau oi dung quay lung hoi em...",
+      "paid": "False",
+      "channelid": "UCZrKNBza1n1jBZKkjJBRrmg",
+      "videoid": "zYjFIIKg9OY",
+      "duration": "PT4M33S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/zYjFIIKg9OY/hqdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/zYjFIIKg9OY",
+      "playertype": "HTML5 Flash",
+      "width": "480",
+      "height": "360",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "505499",
+      "datepublished": "2007-05-26",
+      "genre": "Music"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/zYjFIIKg9OY/hqdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tại Sao - Ưng Hoàng Phúc - NhacCuaTui",
+   "htmlTitle": "\u003cb\u003eTại Sao\u003c/b\u003e - Ưng Hoàng Phúc - NhacCuaTui",
+   "link": "https://www.nhaccuatui.com/bai-hat/tai-sao-ung-hoang-phuc.djn7ofUtLWNw.html",
+   "displayLink": "www.nhaccuatui.com",
+   "snippet": "Tại Sao - Ưng Hoàng Phúc | Bài hát: Tại Sao - Ưng Hoàng Phúc Dẫu biết tình \nmình nay đã hết thật rồi ... | Nghe nhạc hay online mới nhất chất lượng cao.",
+   "htmlSnippet": "\u003cb\u003eTại Sao\u003c/b\u003e - Ưng Hoàng Phúc | Bài hát: \u003cb\u003eTại Sao\u003c/b\u003e - Ưng Hoàng Phúc Dẫu biết tình \u003cbr\u003e\nmình nay đã hết thật rồi ... | Nghe nhạc hay online mới nhất chất lượng cao.",
+   "cacheId": "AEM2uHnMD2QJ",
+   "formattedUrl": "https://www.nhaccuatui.com/.../tai-sao-ung-hoang-phuc.djn7ofUtLWNw. html",
+   "htmlFormattedUrl": "https://www.nhaccuatui.com/.../\u003cb\u003etai-sao\u003c/b\u003e-ung-hoang-phuc.djn7ofUtLWNw. html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBY4NxX-i_azg8_3CSIvfONWfOckZ9zj9JM3hTn60FtfEu19CoUxRIP4o"
+     }
+    ],
+    "musicrecording": [
+     {
+      "url": "https://www.nhaccuatui.com/bai-hat/tai-sao-ung-hoang-phuc.djn7ofUtLWNw.html",
+      "duration": "PT4M19S",
+      "genre": "Nhạc Trẻ",
+      "name": "Tại Sao"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Tại Sao - Ưng Hoàng Phúc | Bài hát: Tại Sao - Ưng Hoàng Phúc      Dẫu biết tình mình nay đã hết thật rồi   ... | Nghe nhạc hay online mới nhất chất lượng cao",
+      "og:url": "https://www.nhaccuatui.com/bai-hat/tai-sao-ung-hoang-phuc.djn7ofUtLWNw.html",
+      "og:site_name": "NhacCuaTui",
+      "al:iphone:url": "nct://",
+      "al:iphone:app_store_id": "1210763463",
+      "al:iphone:app_name": "NhacCuaTui",
+      "al:android:url": "nct://nhaccuatui",
+      "al:android:package": "ht.nct",
+      "al:android:app_name": "NCT",
+      "fb:app_id": "414296278689656",
+      "og:title": "Tại Sao - Ưng Hoàng Phúc - NhacCuaTui",
+      "og:image": "https://avatar-nct.nixcdn.com/singer/avatar/2017/11/27/3/0/8/3/1511751730510_600.jpg",
+      "author": "Ưng Hoàng Phúc",
+      "copyright": "NhacCuaTui.Com"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "nghe nhac",
+      "url": "nghe nhac"
+     },
+     {
+      "title": "Bài hát nhac tre",
+      "url": "Bài hát nhac tre"
+     },
+     {
+      "title": "ung hoang phuc",
+      "url": "ung hoang phuc"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://stc-id.nixcdn.com/v11/images/img-plist-full.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KHẮC VIỆT - Biết Nói Là Tại Sao (OFFICAL MV) - YouTube",
+   "htmlTitle": "KHẮC VIỆT - Biết Nói Là \u003cb\u003eTại Sao\u003c/b\u003e (OFFICAL MV) - YouTube",
+   "link": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+   "displayLink": "www.youtube.com",
+   "snippet": "30 Tháng Mười Một 2014 ... Khắc Việt Kênh YouTube chính thức của ca sỹ Khắc Việt Production : Khắc Việt \nENTERTAINMENT Nhấn subscribe để theo dõi những sản ...",
+   "htmlSnippet": "30 Tháng Mười Một 2014 \u003cb\u003e...\u003c/b\u003e Khắc Việt Kênh YouTube chính thức của ca sỹ Khắc Việt Production : Khắc Việt \u003cbr\u003e\nENTERTAINMENT Nhấn subscribe để theo dõi những sản&nbsp;...",
+   "cacheId": "DTyYkNYXFJcJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDMGOVsrkrfHYMJnbJ3N8QNKMqrJNDWL_EuX-1Qekfk0Xpqtk5gmSpGB_g"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/8LMUtGlCihk/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/KhacVietPOPS"
+     },
+     {
+      "url": "https://plus.google.com/109749321551643994724"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "KHẮC VIỆT - Biết Nói Là Tại Sao (OFFICAL MV)",
+      "theme-color": "#ff0000",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+      "og:title": "KHẮC VIỆT - Biết Nói Là Tại Sao (OFFICAL MV)",
+      "og:image": "https://i.ytimg.com/vi/8LMUtGlCihk/maxresdefault.jpg",
+      "og:description": "Khắc Việt Kênh YouTube chính thức của ca sỹ Khắc Việt Production : Khắc Việt ENTERTAINMENT Nhấn subscribe để theo dõi những sản phẩm mới nhất. Subscribe kênh...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=8LMUtGlCihk&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=8LMUtGlCihk&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=8LMUtGlCihk&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/8LMUtGlCihk",
+      "og:video:secure_url": "https://www.youtube.com/embed/8LMUtGlCihk",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "biet noi la tai sao",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+      "twitter:title": "KHẮC VIỆT - Biết Nói Là Tại Sao (OFFICAL MV)",
+      "twitter:description": "Khắc Việt Kênh YouTube chính thức của ca sỹ Khắc Việt Production : Khắc Việt ENTERTAINMENT Nhấn subscribe để theo dõi những sản phẩm mới nhất. Subscribe kênh...",
+      "twitter:image": "https://i.ytimg.com/vi/8LMUtGlCihk/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=8LMUtGlCihk&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=8LMUtGlCihk&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=8LMUtGlCihk",
+      "name": "KHẮC VIỆT - Biết Nói Là Tại Sao (OFFICAL MV)",
+      "description": "Khắc Việt Kênh YouTube chính thức của ca sỹ Khắc Việt Production : Khắc Việt ENTERTAINMENT Nhấn subscribe để theo dõi những sản phẩm mới nhất. Subscribe kênh...",
+      "paid": "False",
+      "channelid": "UCPr94gEP09WeEHl6z8KMtQw",
+      "videoid": "8LMUtGlCihk",
+      "duration": "PT6M54S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/8LMUtGlCihk/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/8LMUtGlCihk",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "10035919",
+      "datepublished": "2014-11-30",
+      "genre": "Music"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/8LMUtGlCihk/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tại sao móng chân, móng tay người chết tiếp tục mọc? - BBC Tiếng ...",
+   "htmlTitle": "\u003cb\u003eTại sao\u003c/b\u003e móng chân, móng tay người chết tiếp tục mọc? - BBC Tiếng ...",
+   "link": "http://www.bbc.com/vietnamese/vert-fut-42074610",
+   "displayLink": "www.bbc.com",
+   "snippet": "5 ngày trước ... Bạn đã từng gặp ác mộng về xác sống (zombie) chưa? Những xác sống với các \nmóng tay dài ma quái?",
+   "htmlSnippet": "5 ngày trước \u003cb\u003e...\u003c/b\u003e Bạn đã từng gặp ác mộng về xác sống (zombie) chưa? Những xác sống với các \u003cbr\u003e\nmóng tay dài ma quái?",
+   "cacheId": "8Paf-vvG8PkJ",
+   "formattedUrl": "www.bbc.com/vietnamese/vert-fut-42074610",
+   "htmlFormattedUrl": "www.bbc.com/vietnamese/vert-fut-42074610",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbK5QySN08YkM28R0YKS2KdgAaKyM10EGs6YAr4uQMTkEtb2w72CJwoaVl"
+     }
+    ],
+    "metatags": [
+     {
+      "x-country": "us",
+      "x-audience": "US",
+      "cps_audience": "US",
+      "cps_changequeueid": "111623021",
+      "og:title": "Tại sao móng chân, móng tay người chết tiếp tục mọc?",
+      "og:type": "article",
+      "og:description": "Bạn đã từng gặp ác mộng về xác sống (zombie) chưa? Những xác sống với các móng tay dài ma quái?",
+      "og:site_name": "BBC Tiếng Việt",
+      "og:locale": "vi_VN",
+      "article:author": "https://www.facebook.com/bbcnews",
+      "article:section": "Tương lai",
+      "og:url": "http://www.bbc.com/vietnamese/vert-fut-42074610",
+      "og:image": "https://ichef.bbci.co.uk/images/ic/1024x576/p05nslm2.jpg",
+      "fb:pages": "285361880228,192168680794107,9432520138,347501767628,264572343581678,303522857815,166580710064489,592266607456680,260669183761,160817274042538,236659822607,237647452933504,10150118096995434,113097918700687,143048895744759,81395234664,207150596007088,167959249906191,64040652712,190992343324,103678496456574,367167334474,160894643929209,186742265162,1526071940947174,230299653821,124158667615790,126548377386804,298318986864908,1068750829805728,228458913833525,163571453661989,660673490805047,948946275170651",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@bbcvietnamese",
+      "twitter:title": "Tại sao móng chân, móng tay người chết tiếp tục mọc?",
+      "twitter:description": "Bạn đã từng gặp ác mộng về xác sống (zombie) chưa? Những xác sống với các móng tay dài ma quái?",
+      "twitter:creator": "@bbcvietnamese",
+      "twitter:image:src": "https://ichef.bbci.co.uk/images/ic/560x315/p05nslm2.jpg",
+      "twitter:image:alt": "Những mô tả rùng rợn về xác chết với bộ móng tay dài ngoằng, tóc tai rũ rượi vốn khiến nhiều người sợ hãi. Là móng có sẵn, hay do mọc dài thêm sau khi chết?",
+      "twitter:domain": "www.bbc.com",
+      "apple-mobile-web-app-title": "BBC News",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "BBC News",
+      "msapplication-tilecolor": "#bb1919",
+      "mobile-web-app-capable": "yes",
+      "fb:app_id": "1609039196070050",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "fb:admins": "100004154058350"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ichef.bbci.co.uk/images/ic/1024x576/p05nslm2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "tại sao - Wiktionary",
+   "htmlTitle": "\u003cb\u003etại sao\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wiktionary.org/wiki/t%E1%BA%A1i_sao",
+   "displayLink": "en.wiktionary.org",
+   "snippet": "Vietnamese[edit]. Etymology[edit]. From tại + sao. Pronunciation[edit]. (Hà Nội) \nIPA: [taːj˧ˀ˨ʔ s̪aːw˧˧]; (Huế) IPA: [taːj˨ˀ˨ʔ ʂaːw˧˧]; (Hồ Chí Minh ...",
+   "htmlSnippet": "Vietnamese[edit]. Etymology[edit]. From tại + sao. Pronunciation[edit]. (Hà Nội) \u003cbr\u003e\nIPA: [taːj˧ˀ˨ʔ s̪aːw˧˧]; (Huế) IPA: [taːj˨ˀ˨ʔ ʂaːw˧˧]; (Hồ Chí Minh&nbsp;...",
+   "cacheId": "2k_1xF_8FtIJ",
+   "formattedUrl": "https://en.wiktionary.org/wiki/tại_sao",
+   "htmlFormattedUrl": "https://en.wiktionary.org/wiki/\u003cb\u003etại_sao\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sinead Burke: Tại sao thiết kế phải quan tâm đến tất cả mọi người ...",
+   "htmlTitle": "Sinead Burke: \u003cb\u003eTại sao\u003c/b\u003e thiết kế phải quan tâm đến tất cả mọi người ...",
+   "link": "https://www.ted.com/talks/sinead_burke_why_design_should_include_everyone/transcript?language=vi",
+   "displayLink": "www.ted.com",
+   "snippet": "21 Tháng Sáu 2017 ... Sinéad Burke quan tâm sâu sắc đến những chi tiết dễ bị bỏ qua. Với chiều cao \n105 centimeters (hay 3' 5\") , thế giới- từ chiều cao của một tay ...",
+   "htmlSnippet": "21 Tháng Sáu 2017 \u003cb\u003e...\u003c/b\u003e Sinéad Burke quan tâm sâu sắc đến những chi tiết dễ bị bỏ qua. Với chiều cao \u003cbr\u003e\n105 centimeters (hay 3&#39; 5&quot;) , thế giới- từ chiều cao của một tay&nbsp;...",
+   "cacheId": "oA8Zlk7JbuIJ",
+   "formattedUrl": "https://www.ted.com/talks/sinead_burke_why.../transcript?...vi",
+   "htmlFormattedUrl": "https://www.ted.com/talks/sinead_burke_why.../transcript?...vi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "162",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReuER6YR7FQ8jYZwKV_4f8gQZegFpO5alEwqefWU3pTpkVAxhpljLNRFk"
+     }
+    ],
+    "person": [
+     {
+      "url": "https://www.ted.com/speakers/sinead_burke",
+      "name": "Sinéad Burke",
+      "image": "https://pe.tedcdn.com/images/ted/64b146c5a34597a024983251894bf9a3d610b2d3_254x191.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=376183339,app-argument=https://www.ted.com/talks/sinead_burke_why_design_should_include_everyone?language=vi&utm_source=ted.com&utm_medium=referral&utm_campaign=smart_app_banner",
+      "medium": "video",
+      "author": "Sinead Burke",
+      "fb:app_id": "201021956610141",
+      "og:url": "https://www.ted.com/talks/sinead_burke_why_design_should_include_everyone?language=vi",
+      "og:title": "Tại sao thiết kế phải quan tâm đến  tất cả mọi người",
+      "og:image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e932131076a4970cec2fe7844e44d2cd163202d_2880x1620.jpg?c=1050%2C550&w=1050",
+      "og:image:secure_url": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e932131076a4970cec2fe7844e44d2cd163202d_2880x1620.jpg?c=1050%2C550&w=1050",
+      "og:image:width": "1050",
+      "og:image:height": "550",
+      "og:type": "video.other",
+      "og:video:duration": "597",
+      "og:video:tag": "TEDNYC",
+      "og:video:release_date": "1498057408",
+      "al:ios:app_name": "TED",
+      "al:ios:app_store_id": "376183339",
+      "al:ios:url": "ted://talks/2810?source=facebook",
+      "al:android:app_name": "TED",
+      "al:android:package": "com.ted.android",
+      "al:android:url": "ted://talks/sinead_burke_why_design_should_include_everyone?source=facebook",
+      "al:web:url": "http://applinks.org/documentation",
+      "rss-feed": "https://www.ted.com/feeds/talks.rss",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@tedtalks",
+      "twitter:image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e932131076a4970cec2fe7844e44d2cd163202d_2880x1620.jpg?w=1200",
+      "twitter:app:id:iphone": "376183339",
+      "twitter:app:id:ipad": "376183339",
+      "twitter:app:id:googleplay": "com.ted.android",
+      "twitter:app:name:ipad": "TED",
+      "twitter:app:name:iphone": "TED",
+      "twitter:app:name:googleplay": "TED",
+      "twitter:app:url:ipad": "ted://talks/2810?source=twitter",
+      "twitter:app:url:iphone": "ted://talks/2810?source=twitter",
+      "twitter:app:url:googleplay": "https://www.ted.com/talks/sinead_burke_why_design_should_include_everyone?language=vi",
+      "theme-color": "#E62B1E",
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "TED Talks",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "application-name": "TED Talks",
+      "msapplication-config": "https://www.ted.com/browserconfig.xml",
+      "msapplication-tilecolor": "#000000",
+      "title": "Sinead Burke: Tại sao thiết kế phải quan tâm đến  tất cả mọi người",
+      "og:description": "Sinéad Burke quan tâm sâu sắc đến những chi tiết dễ bị bỏ qua. Với chiều cao  105 centimeters (hay 3' 5\") , thế giới- từ chiều cao của một tay nắm cửa đến kích cỡ những chiếc giày- thường ngăn cản cô ấy làm mọi việc theo ý mình. Trong bài thuyết trình này, cô sẽ kể cho chúng ta về thế giới của một người nhỏ bé và đặt ra câu hỏi: \"Chúng ta không thiết kế cho ai?\""
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.ted.com/talks/sinead_burke_why_design_should_include_everyone",
+      "name": "Tại sao thiết kế phải quan tâm đến tất cả mọi người",
+      "description": "Sinéad Burke quan tâm sâu sắc đến những chi tiết dễ bị bỏ qua. Với chiều cao 105 centimeters (hay 3' 5\") , thế giới- từ chiều cao của một tay nắm cửa đến...",
+      "duration": "PT9M57S",
+      "uploaddate": "2017-06-21T15:03:28+00:00",
+      "interactioncount": "1170169",
+      "thumbnailurl": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e932131076a4970cec2fe7844e44d2cd163202d_2880x1620.jpg?quality=95&w=480",
+      "embedurl": "https://embed.ted.com/talks/sinead_burke_why_design_should_include_everyone",
+      "playertype": "Flash HTML5",
+      "width": "640",
+      "height": "360",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e932131076a4970cec2fe7844e44d2cd163202d_2880x1620.jpg?c=1050%2C550&w=1050"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mẹ Ơi Tại Sao - Bé Bảo An | Bài hát, lyrics",
+   "htmlTitle": "Mẹ Ơi \u003cb\u003eTại Sao\u003c/b\u003e - Bé Bảo An | Bài hát, lyrics",
+   "link": "https://mp3.zing.vn/bai-hat/Me-Oi-Tai-Sao-Be-Bao-An/ZW69UDWI.html",
+   "displayLink": "mp3.zing.vn",
+   "snippet": "Mẹ Ơi Tại Sao, - Bé Bảo An Mẹ ơi tại sao con bướm bay cao, con ong làm mật, \ncon kiến tha mồi Mẹ ơi tại... | Tải download 320 nhạc chờ Me Oi Tai Sao,- Be Bao\n ...",
+   "htmlSnippet": "Mẹ Ơi \u003cb\u003eTại Sao\u003c/b\u003e, - Bé Bảo An Mẹ ơi \u003cb\u003etại sao\u003c/b\u003e con bướm bay cao, con ong làm mật, \u003cbr\u003e\ncon kiến tha mồi Mẹ ơi tại... | Tải download 320 nhạc chờ Me Oi \u003cb\u003eTai Sao\u003c/b\u003e,- Be Bao\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "sHLUsFFRojwJ",
+   "formattedUrl": "https://mp3.zing.vn/bai-hat/Me-Oi-Tai-Sao.../ZW69UDWI.html",
+   "htmlFormattedUrl": "https://mp3.zing.vn/bai-hat/Me-Oi-\u003cb\u003eTai-Sao\u003c/b\u003e.../ZW69UDWI.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8oTlIKVmCAF3WZVR45TwNIE854n00F6RpPpYdt3A1GNyy3wVbcJ-g8r4_"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/icon_zing_mp3_60.png",
+      "name": "VNG Corporation"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Zing MP3",
+      "apple-itunes-app": "app-id=992357547, app-argument=https://itunes.apple.com/vn/app/zing-mp3-lite/id992357547",
+      "og:title": "Mẹ Ơi Tại Sao  - Bé Bảo An | Zing MP3",
+      "og:description": "Album: Những Nụ Cười | Mẹ ơi tại sao con bướm bay cao, con ong làm mật, con kiến tha mồi Mẹ ơi tại... | Nghe nhạc miễn phí - Tải nhạc chất lượng cao",
+      "og:image": "https://zmp3-photo-fbcrawler.zadn.vn/thumb/600_600/covers/6/4/64275be14a0f44050e6f4fde8a12eddc_1384914143.jpg",
+      "og:image:url": "https://zmp3-photo-fbcrawler.zadn.vn/thumb/600_600/covers/6/4/64275be14a0f44050e6f4fde8a12eddc_1384914143.jpg",
+      "og:url": "https://mp3.zing.vn/link/song/ZW69UDWI",
+      "og:site_name": "Zing MP3",
+      "og:type": "website",
+      "al:android:url": "zingmp3://song?id=ZW69UDWI",
+      "al:android:package": "com.zing.mp3",
+      "al:android:app_name": "Zing MP3",
+      "al:iphone:url": "zingmp3open://",
+      "al:iphone:app_store_id": "992357547",
+      "al:iphone:app_name": "Zing MP3",
+      "al:ipad:url": "zingmp3open://",
+      "al:ipad:app_store_id": "992357547",
+      "al:ipad:app_name": "Zing MP3",
+      "fb:app_id": "1603079626622346",
+      "format-detection": "telephone=no",
+      "geo.region": "VN-SG",
+      "geo.placename": "11",
+      "geo.position": "10.763945;106.656201",
+      "icbm": "10.763945, 106.656201"
+     }
+    ],
+    "Review-aggregate": [
+     {
+      "itemreviewed": "Aggregate Rating Schema"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://zmp3-photo-fbcrawler.zadn.vn/thumb/600_600/covers/6/4/64275be14a0f44050e6f4fde8a12eddc_1384914143.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Taisao.xyz: Mỗi ngày biết một điều hay",
+   "htmlTitle": "\u003cb\u003eTaisao\u003c/b\u003e.xyz: Mỗi ngày biết một điều hay",
+   "link": "https://www.taisao.xyz/",
+   "displayLink": "www.taisao.xyz",
+   "snippet": "Những câu hỏi tại sao thú vị nhất, bất ngờ nhất về thế giới tự nhiên, động vật, \nthực vật và con người. Mỗi ngày biết một điều hay.",
+   "htmlSnippet": "Những câu hỏi \u003cb\u003etại sao\u003c/b\u003e thú vị nhất, bất ngờ nhất về thế giới tự nhiên, động vật, \u003cbr\u003e\nthực vật và con người. Mỗi ngày biết một điều hay.",
+   "cacheId": "MDhgnAgRjvwJ",
+   "formattedUrl": "https://www.taisao.xyz/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003etaisao\u003c/b\u003e.xyz/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu80LJTrj0GLY75Y_KVjdF_83g4UyVQGoooVVdZz_HIhkEmV60PJKf4pA"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:pages": "1399523503697120",
+      "ia:markup_url": "https://www.taisao.xyz/nhung-dieu-bat-ngo-ve-bien-chet/?ia_markup=1",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1",
+      "p:domain_verify": "7aa956ce1bbe83d1dae5dac76b1e7092",
+      "fb:admins": "1425731396",
+      "propeller": "09a89362ba5ea8acaae1e3838d6a9d96",
+      "fb:app_id": "1430438560583240",
+      "msapplication-tileimage": "https://www.taisao.xyz/wp-content/uploads/2016/02/cropped-Taisaoxyz512-270x270.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.taisao.xyz/wp-content/uploads/2015/03/khuy-ao.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alan Smith: Tại sao bạn nên yêu khoa học thống kê | TED Talk | TED ...",
+   "htmlTitle": "Alan Smith: \u003cb\u003eTại sao\u003c/b\u003e bạn nên yêu khoa học thống kê | TED Talk | TED ...",
+   "link": "https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics?language=vi",
+   "displayLink": "www.ted.com",
+   "snippet": "Nghĩ rằng bạn đang đoán tốt các số liệu thống kê? Nghĩ lại đi. Theo Alan Smith, \nchuyên gia về hình hóa dữ liệu, mặc cho chúng ta có coi chúng ta là những ...",
+   "htmlSnippet": "Nghĩ rằng bạn đang đoán tốt các số liệu thống kê? Nghĩ lại đi. Theo Alan Smith, \u003cbr\u003e\nchuyên gia về hình hóa dữ liệu, mặc cho chúng ta có coi chúng ta là những&nbsp;...",
+   "cacheId": "-gs7Z6J4Gp8J",
+   "formattedUrl": "https://www.ted.com/.../alan_smith_why_we_re_so_bad_at_statistics?...",
+   "htmlFormattedUrl": "https://www.ted.com/.../alan_smith_why_we_re_so_bad_at_statistics?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__mgOtY9QOENUPm2atg2UCxLRpR9I25pRIEH7_buFOapB_eG3stPiZ-M"
+     }
+    ],
+    "person": [
+     {
+      "url": "https://www.ted.com/speakers/alan_smith",
+      "name": "Alan Smith",
+      "image": "https://pe.tedcdn.com/images/ted/7d5314cf4ace51d76ae52d6c8f9842348f20493c_254x191.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=376183339,app-argument=https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics?language=vi&utm_source=ted.com&utm_medium=referral&utm_campaign=smart_app_banner",
+      "medium": "video",
+      "author": "Alan Smith",
+      "fb:app_id": "201021956610141",
+      "og:url": "https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics?language=vi",
+      "og:title": "Tại sao bạn nên yêu khoa học thống kê",
+      "og:image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/494f688e9688a52d75352d2c45dbf3e0729a5c60_2880x1620.jpg?c=1050%2C550&w=1050",
+      "og:image:secure_url": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/494f688e9688a52d75352d2c45dbf3e0729a5c60_2880x1620.jpg?c=1050%2C550&w=1050",
+      "og:image:width": "1050",
+      "og:image:height": "550",
+      "og:type": "video.other",
+      "og:video:duration": "769",
+      "og:video:tag": "TEDx",
+      "og:video:release_date": "1485877172",
+      "al:ios:app_name": "TED",
+      "al:ios:app_store_id": "376183339",
+      "al:ios:url": "ted://talks/2674?source=facebook",
+      "al:android:app_name": "TED",
+      "al:android:package": "com.ted.android",
+      "al:android:url": "ted://talks/alan_smith_why_we_re_so_bad_at_statistics?source=facebook",
+      "al:web:url": "http://applinks.org/documentation",
+      "rss-feed": "https://www.ted.com/feeds/talks.rss",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@tedtalks",
+      "twitter:image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/494f688e9688a52d75352d2c45dbf3e0729a5c60_2880x1620.jpg?w=1200",
+      "twitter:app:id:iphone": "376183339",
+      "twitter:app:id:ipad": "376183339",
+      "twitter:app:id:googleplay": "com.ted.android",
+      "twitter:app:name:ipad": "TED",
+      "twitter:app:name:iphone": "TED",
+      "twitter:app:name:googleplay": "TED",
+      "twitter:app:url:ipad": "ted://talks/2674?source=twitter",
+      "twitter:app:url:iphone": "ted://talks/2674?source=twitter",
+      "twitter:app:url:googleplay": "https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics?language=vi",
+      "theme-color": "#E62B1E",
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "TED Talks"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics",
+      "name": "Tại sao bạn nên yêu khoa học thống kê",
+      "description": "Nghĩ rằng bạn đang đoán tốt các số liệu thống kê? Nghĩ lại đi. Theo Alan Smith, chuyên gia về hình hóa dữ liệu, mặc cho chúng ta có coi chúng ta là những...",
+      "duration": "PT12M49S",
+      "uploaddate": "2017-01-31T15:39:32+00:00",
+      "interactioncount": "1427042",
+      "thumbnailurl": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/494f688e9688a52d75352d2c45dbf3e0729a5c60_2880x1620.jpg?quality=95&w=480",
+      "embedurl": "https://embed.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics",
+      "playertype": "Flash HTML5",
+      "width": "640",
+      "height": "360",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/494f688e9688a52d75352d2c45dbf3e0729a5c60_2880x1620.jpg?c=1050%2C550&w=1050"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tại sao không có vũ khí Mỹ trong '$12 tỷ thỏa thuận thương mại'?",
+   "htmlTitle": "\u003cb\u003eTại sao\u003c/b\u003e không có vũ khí Mỹ trong &#39;$12 tỷ thỏa thuận thương mại&#39;?",
+   "link": "https://www.voatiengviet.com/a/vu-khi-nguyen-xuan-phuc-trump-quoc-phong/4135600.html",
+   "displayLink": "www.voatiengviet.com",
+   "snippet": "3 ngày trước ... Dấu hỏi lớn. Một dấu hỏi lớn vẫn tồn tại sau chuyến thăm Việt Nam của Tổng \nthống Mỹ Donald Trump vào tháng Mười Một năm 2017: Vì sao ...",
+   "htmlSnippet": "3 ngày trước \u003cb\u003e...\u003c/b\u003e Dấu hỏi lớn. Một dấu hỏi lớn vẫn tồn tại sau chuyến thăm Việt Nam của Tổng \u003cbr\u003e\nthống Mỹ Donald Trump vào tháng Mười Một năm 2017: Vì sao&nbsp;...",
+   "cacheId": "TTEbuXtNJjoJ",
+   "formattedUrl": "https://www.voatiengviet.com/a/vu-khi.../4135600.html",
+   "htmlFormattedUrl": "https://www.voatiengviet.com/a/vu-khi.../4135600.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWK1qUscnE0GlWRQpAViKgYD1sgbUFkTXyVQ6d4UpCfO3UpWsW2q0tAvA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Tại sao không có vũ khí Mỹ trong ‘$12 tỷ thỏa thuận thương mại’?",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "fb:pages": "144239423007",
+      "msvalidate.01": "3286EE554B6F672A6F2E608C02343C0E",
+      "apple-mobile-web-app-title": "VOA",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "apple-itunes-app": "app-id=632618796, app-argument=//4135600.ltr",
+      "og:title": "Tại sao không có vũ khí Mỹ trong ‘$12 tỷ thỏa thuận thương mại’?",
+      "og:description": "Trong Quân ủy trung ương và trong cơ cấu chính trị chằng chịt và chồng chéo giữa khối đảng lẫn chính quyền ở Việt Nam, Thủ tướng Nguyễn Xuân Phúc tuy vượt hẳn bộ trưởng quốc phòng về chức vụ nhưng lại chỉ là ủy viên thường trực...",
+      "og:type": "article",
+      "og:url": "https://www.voatiengviet.com/a/vu-khi-nguyen-xuan-phuc-trump-quoc-phong/4135600.html",
+      "og:site_name": "VOA",
+      "article:publisher": "https://www.facebook.com/VOATiengViet",
+      "og:image": "https://gdb.voanews.com/38EC6F7E-A6B3-4C93-A74C-03A749E15780_w1200_r1_s.png",
+      "og:image:width": "1200",
+      "og:image:height": "675",
+      "fb:app_id": "187042768467113",
+      "author": "Phạm Chí Dũng",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@VOAVietnamese",
+      "twitter:image": "https://gdb.voanews.com/38EC6F7E-A6B3-4C93-A74C-03A749E15780_w1200_r1_s.png",
+      "news_keywords": "Phạm Chí Dũng, vũ khí, nguyễn xuân phúc, Trump",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "/Content/responsive/VOA/img/webApp/ico-144x144.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://gdb.voanews.com/38EC6F7E-A6B3-4C93-A74C-03A749E15780_w1200_r1_s.png"
+     }
+    ]
+   }
+  }
+ ]
+}

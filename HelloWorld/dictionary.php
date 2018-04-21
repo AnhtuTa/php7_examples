@@ -1,27 +1,20 @@
 <?php
-	$language = "en";
-    $word = "project";
-    $word_id = strtolower($word);   //word id is case sensitive and lowercase is required
+	$language = "en";		// ngôn ngữ để tra từ
+    $word = "project";		// từ cần tra
+    $word_id = strtolower($word);   // word id is case sensitive and lowercase is required
     $url = "https://od-api.oxforddictionaries.com:443/api/v1/entries/$language/$word_id";
 	$app_id = "78b2b576";
 	$app_key = "a055c640653f62748e7c011f786f3ebf";
-	// echo $json;
-	// Now we need to display that json data!
-	// $data_array = $json['items'];
-	// foreach ($data_array as $data) {
-	// 	foreach ($data as $key => $value) {
-	// 		echo "<div style='color: blue'>$value</div>\n";
-	// 	}
-	// 	echo "<br>\n";
-	// }
 
 	$ch = curl_init();
+
 	curl_setopt($ch, CURLOPT_URL, $url);
 	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 	    'app_id: '. $app_id,
 	    'app_key: '. $app_key
 	));
-	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);	// ko in kq ra màn hình
+	
 	$res = curl_exec($ch);
 	$json = json_decode($res, true);
 	curl_close($ch);

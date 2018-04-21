@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Notification demo</title>
+</head>
+<body>
+    <h2>Ví dụ này phải test trên host, chứ nếu mở = file, chẳng hạn file:///F:/Documents/JS/Notification.html, thì ko có thông báo!</h2>
+    <a href="#" id="show_noti">Hiển thị thông báo</a>
+
+     <script>
+        var showNoti = document.getElementById("show_noti");
+
+         showNoti.addEventListener('click', function(e) {
+            e.preventDefault();
+            var notify;
+            console.log("Notification.permission = " + Notification.permission);
+            
+            if(Notification.permission == 'denied') {
+                alert('Bạn phải cho phép thông báo trên trình duyệt mới có thể hiển thị nó.');
+            } else if(Notification.permission == 'default') {
+                var permis = askNotificationPermission();
+                console.log("permis = " + permis);  //Dòng này sẽ đc in ra luôn, dù người dùng chưa chọn cho phép hay ko
+            } else {    //Notification.permission == 'granted'
+                showNotification();
+            }
+        });
+
+         function askNotificationPermission() {
+            Notification.requestPermission(function(p) {
+                if(p === 'denied') {
+                    alert("Thông báo đã bị chặn");
+                } else if(p === 'granted') {
+                    alert("Thông báo được cho phép trên trang này");
+                    showNotification();
+                } else {
+                    alert("Notification.permission == 'default', tại sao thông báo lại bị chặn ngay sau đó???")
+                    alert("Thông báo đã bị chặn");
+                    //Notification.permission == 'default';
+                }
+            });
+        }
+
+         function showNotification() {
+            notify = new Notification(
+                'This is title',
+                {
+                    body: 'This is body',
+                    icon: 'https://freetuts.net/public/logo/icon.png',
+                    tag: 'https://www.google.com'
+                }
+            );
+            notify.onclick = function() {
+                window.location.href = this.tag;    //
+            }
+        }
+    </script>
+</body>
+</html>

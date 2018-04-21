@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tạo avatar theo tên với Javascript và PHP &bull; Freetuts.net</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <style>
+        * {padding: 0; margin: 0; color: #333; font-size: 14px;}
+        .clearfix {clear: both;}
+        .box-create-avt {width: 300px; max-width: 100%; margin: 20px auto; text-align: center;}
+        .box-create-avt h2 {color: #333; font-weight: normal; font-size: 30px;}
+        .box-create-avt input[type=text] {float: left; margin-top: 10px; width: calc(50% - 16px); outline: 0; border: 1px solid #ccc; padding: 5px 7px; color: #333;}
+        .box-create-avt #last_name {border-left: 0;}
+        .box-create-avt button {background-color: #428bca; color: #fff; padding: 5px 7px; font-size: 14px; border: 1px solid #428bca; margin-top: 10px; cursor: pointer; outline: 0;}
+        #canvas {
+            border: 1px solid blue;
+            margin-top: 100px;
+        }
+        #response_from_server_via_ajax {
+            overflow: scroll;
+        }
+    </style>
+</head>
+<body>
+    <div class="box-create-avt">
+        <h2>Tạo ảnh theo tên</h2>
+        <form method="POST" id="formCreateAvt" onsubmit="return false;">
+            <input type="text" placeholder="Họ" id="first_name" value="anhtu" required>
+            <input type="text" placeholder="Tên" id="last_name" value="ta" required>
+            <button id="submit_form_signup"  onclick="createAvatar()">Tạo ảnh</button>
+            <div class="clearfix"></div>
+        </form>
+        <canvas id="canvas" width="80" height="80"></canvas>
+        <div id="response_from_server_via_ajax">Data from server</div>
+    </div>
+    <script>
+        function createAvatar() {
+            var firstLetter = document.getElementById("first_name").value.substr(0, 1).toUpperCase();
+            var lastLetter = document.getElementById("last_name").value.substr(0, 1).toUpperCase();
+            var canvas = document.getElementById("canvas");
+
+            var context = canvas.getContext("2d");
+           
+            // Lấy x, y căn giữa canvas
+            var x = canvas.width / 2;
+            var y = canvas.height / 2;
+            console.log(x, y);
+
+            // Phủ màu cho canvas
+            context.rect(0, 0, 2*x, 2*y);
+            context.fillStyle = getRandomColor();
+            context.fill();
+
+            // Viết tắt họ và tên lên canvas
+            context.font = "30px Arial";
+            context.textAlign = "center";
+            context.fillStyle = "white";
+            context.fillText(firstLetter + lastLetter, x, y + 10);
+
+            var dataAvt = canvas.toDataURL(); // Lấy dữ liệu canas
+            console.log(dataAvt);
+            sendAvatarToServer(dataAvt);
+        }
+
+        function sendAvatarToServer(dataAvt) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("response_from_server_via_ajax").innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("POST", "create_avatar.php", true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send("dataAvt=" + dataAvt);
+        }
+
+        function getRandomColor() {
+            var letters = '0123456789ABCDEF';
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+
+        //========= Demo async, callback ===========
+        var a = async function() {
+            try {
+                var values = [];
+                setTimeout(() => {
+                    for(var i = 0; i < 1000; i++) values.push(i);
+                    console.log("vao day");
+                }, 2000);
+                return Promise.resolve(values);
+            } catch (error) {
+                return Promise.reject(error);
+            }
+        }
+
+        a().then(data => nam(data));
+
+        var nam = function(value) {
+            console.log(value);
+        }
+
+    </script>
+</body>
+</html>

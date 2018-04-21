@@ -5,6 +5,12 @@
 	    "website" : "freetuts.net",
 	    "title" : "Học lập trình với JSON",
 	    "food": ["grape", "guava", "watermelon"],
+	    "address":
+	    	{
+	    		"street": "Phan Trong Tue",
+	    		"city": "Hanoi",
+	    		"country": "Vietnam"
+	    	},
 	    "students":
 		    [
 		    	{
@@ -17,6 +23,9 @@
 		    	}
 		    ]
 	}';
+	// food: value là 1 mảng
+	// address: value là 1 JSON
+	// students: value là 1 mảng các JSON
 
 	// convert it to Array/Object (stdClass)
 	// $json = json_decode($json_str);
@@ -32,11 +41,15 @@
 				echo "$data ";
 			}
 			echo "<br>";
+		} else if($key == 'address') {
+			foreach ($value as $key1 => $value1) {
+				echo "<div style='margin-left: 10px;'>$key1: $value1</div>";
+			}
 		} else if($key == 'students') {
 			foreach ($value as $data) {
 				//Mỗi $data lại là 1 JSON
 				foreach ($data as $key1 => $value1) {
-					echo "<div style='margin-left: 10px;'>$key1: $value1</div>";
+					echo "<div style='margin-left: 20px;'>$key1: $value1</div>";
 				}
 			}
 		} else echo "$key: $value<br>";

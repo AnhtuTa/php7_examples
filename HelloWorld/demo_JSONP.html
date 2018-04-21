@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h2>Request JSON using the script tag</h2>
+<p>The PHP file returns a call to a function that will handle the JSON data.</p>
+<div>JSONP request files using the script tag instead of the XMLHttpRequest object.</div>
+<p id="demo"></p>
+
+<script>
+	function myFunc(myObj) {
+		document.getElementById("demo").innerHTML = myObj.name;
+	}
+</script>
+
+<script src="demo_jsonp.php"></script>
+<!--
+script trên sẽ gọi tới file demo_jsonp.php. File này in ra trang web đoạn văn bản sau:
+myFunc({ "name":"John", "age":30, "city":"New York" })
+nghĩa là script trên, thông qua file .php, sẽ gọi hàm myFunc()
+
+Như vậy ta có thể send request tới server mà ko cần load lại trang và ko cần dùng AJAX???
+-->
+</body>
+</html>

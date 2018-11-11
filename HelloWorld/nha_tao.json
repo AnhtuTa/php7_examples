@@ -1,0 +1,10 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [105.800678,20.958889]
+    },
+    "properties": {
+        "name": "Nhà của tao!"
+    }
+}
